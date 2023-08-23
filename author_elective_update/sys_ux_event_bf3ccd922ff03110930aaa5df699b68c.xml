@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="DELETE">
+        <description/>
+        <event_name>NAV_ITEM_SELECTED_RELAY_d6830ed42f347110930aaa5df699b647</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Link to destination Relay (NeedIt User home)</label>
+        <props>[{"name":"route","fieldType":"string","interfaceApiName":"global.route","label":"Route type"},{"name":"fields","fieldType":"json","interfaceApiName":"global.route","label":"Route fields"},{"name":"params","fieldType":"json","interfaceApiName":"global.route","label":"Optionals parameters"},{"name":"redirect","fieldType":"boolean","interfaceApiName":null,"label":"Remove previous URL from browser history"},{"name":"passiveNavigation","fieldType":"boolean","interfaceApiName":null,"label":"Load in background (advanced)"},{"name":"title","fieldType":"string","interfaceApiName":null,"label":"Title (advanced)"},{"name":"multiInstField","fieldType":"string","interfaceApiName":null,"label":"Multi-instance field (advanced)"},{"name":"targetRoute","fieldType":"string","interfaceApiName":null,"label":"Sub-navigation route (advanced)"},{"name":"external","fieldType":"json","interfaceApiName":"global.route","label":"External URL object"}]</props>
+        <required_translations>[ {
+  "message" : "External URL object",
+  "comment" : ""
+}, {
+  "message" : "Load in background (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Multi-instance field (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Optionals parameters",
+  "comment" : ""
+}, {
+  "message" : "Remove previous URL from browser history",
+  "comment" : ""
+}, {
+  "message" : "Route fields",
+  "comment" : ""
+}, {
+  "message" : "Route type",
+  "comment" : ""
+}, {
+  "message" : "Sub-navigation route (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Title (advanced)",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 20:23:04</sys_created_on>
+        <sys_id>bf3ccd922ff03110930aaa5df699b68c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Link to destination Relay (NeedIt User home)</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_event_bf3ccd922ff03110930aaa5df699b68c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 20:23:04</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="DELETE" query="documentkey=bf3ccd922ff03110930aaa5df699b68c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>58368b27dbc0a910b847ac44d496197b</instance_id>
+        <instance_name>dev147012</instance_name>
+        <name>sys_ux_event_bf3ccd922ff03110930aaa5df699b68c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event"><sys_ux_event action="INSERT_OR_UPDATE"><description/><event_name>NAV_ITEM_SELECTED_RELAY_d6830ed42f347110930aaa5df699b647</event_name><explicit_api_name/><interfaces/><label>Link to destination Relay (NeedIt User home)</label><props>[{"name":"route","fieldType":"string","interfaceApiName":"global.route","label":"Route type"},{"name":"fields","fieldType":"json","interfaceApiName":"global.route","label":"Route fields"},{"name":"params","fieldType":"json","interfaceApiName":"global.route","label":"Optionals parameters"},{"name":"redirect","fieldType":"boolean","interfaceApiName":null,"label":"Remove previous URL from browser history"},{"name":"passiveNavigation","fieldType":"boolean","interfaceApiName":null,"label":"Load in background (advanced)"},{"name":"title","fieldType":"string","interfaceApiName":null,"label":"Title (advanced)"},{"name":"multiInstField","fieldType":"string","interfaceApiName":null,"label":"Multi-instance field (advanced)"},{"name":"targetRoute","fieldType":"string","interfaceApiName":null,"label":"Sub-navigation route (advanced)"},{"name":"external","fieldType":"json","interfaceApiName":"global.route","label":"External URL object"}]</props><required_translations>[ {
+  "message" : "External URL object",
+  "comment" : ""
+}, {
+  "message" : "Load in background (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Multi-instance field (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Optionals parameters",
+  "comment" : ""
+}, {
+  "message" : "Remove previous URL from browser history",
+  "comment" : ""
+}, {
+  "message" : "Route fields",
+  "comment" : ""
+}, {
+  "message" : "Route type",
+  "comment" : ""
+}, {
+  "message" : "Sub-navigation route (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Title (advanced)",
+  "comment" : ""
+} ]</required_translations><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_event</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-23 20:23:04</sys_created_on><sys_id>bf3ccd922ff03110930aaa5df699b68c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Link to destination Relay (NeedIt User home)</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_event_bf3ccd922ff03110930aaa5df699b68c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-23 20:23:04</sys_updated_on></sys_ux_event><sys_translated_text action="delete_multiple" query="documentkey=bf3ccd922ff03110930aaa5df699b68c"/></record_update>]]></payload>
+        <payload_hash>141607901</payload_hash>
+        <record_name>Link to destination Relay (NeedIt User home)</record_name>
+        <reverted_from/>
+        <source>00534feb2fa43110930aaa5df699b64a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 20:23:04</sys_created_on>
+        <sys_id>b33ccd922ff03110930aaa5df699b690</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a2410a3ce0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 20:23:04</sys_updated_on>
+        <type>UX Event</type>
+        <update_guid>f73ccd92eef0311096e2bfecd704fb8f</update_guid>
+        <update_guid_history>f73ccd92eef0311096e2bfecd704fb8f:141607901</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 20:26:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_event">sys_ux_event</sys_db_object>
+        <sys_id>0860c92cf87c4aecbd79a1f4e775e890</sys_id>
+        <sys_metadata>bf3ccd922ff03110930aaa5df699b68c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Link to destination Relay (NeedIt User home)</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_event_bf3ccd922ff03110930aaa5df699b68c</sys_update_name>
+        <sys_update_version display_value="sys_ux_event_bf3ccd922ff03110930aaa5df699b68c">b33ccd922ff03110930aaa5df699b690</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 20:26:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
